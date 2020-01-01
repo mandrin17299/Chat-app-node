@@ -13,6 +13,7 @@
     "nodemon": "^2.0.1"
   },
   "dependencies": {
+    "express" :"*",
     "bad-words": "^3.0.3",
     "socket.io": "^2.3.0"
   }
